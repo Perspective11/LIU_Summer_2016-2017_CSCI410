@@ -1,0 +1,13 @@
+1- selector types (review)
+	a. Tag selector
+	b. Class selector
+	c. Decendant (direct and indirect) selector
+	d. Attribute selector
+		I  - <tag>[attrib]
+		II - <tag>[attrib  = "something"]
+		III- <tag>[attrib ~= "whatever"]
+		IV - <tag>[attrib |= "another thing"]
+2- grouping and chaining selectors
+3- some CSS attributes
+4- the box model
+5- Div and span
